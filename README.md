@@ -26,10 +26,6 @@ Este encabezado está diseñado para una agencia de negocios, destacando un H1 l
 2. Navega a la carpeta "Header1".
 3. Abre el archivo "index.html" en tu navegador para visualizar el encabezado.
 
-### Captura de Pantalla 📸
-
-![Header1 Screenshot](Header1/docs/screenshots/header1-screenshot.png)
-
 ### Documentación Adicional 📚
 
 Consulta la documentación específica de Header1 en la carpeta "docs" para obtener más detalles sobre su implementación y personalización.
@@ -37,6 +33,10 @@ Consulta la documentación específica de Header1 en la carpeta "docs" para obte
 ## Contribuciones 🤝
 
 ¡Contribuciones y sugerencias son bienvenidas! Siéntete libre de abrir problemas, solicitudes de extracción o participar en la mejora de estos ejemplos.
+
+## Trabajo Freelance 💼
+
+Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en [contactarme](mailto:tuemail@example.com)!
 
 ## Licencia 📜
 
