@@ -1,5 +1,8 @@
 # HTML-CSS-Header-Samples
 
+[![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]()
+[![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]()
+
 ¡Bienvenido! 🚀 HTML-CSS-Header-Samples es una colección de ejemplos de encabezados diseñados exclusivamente con HTML y CSS.
 
 ## Header1: Business Agency
