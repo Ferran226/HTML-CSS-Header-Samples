@@ -4,7 +4,7 @@
 
 ## Header1: Business Agency
 
-![Header1](Header1/images/Business_Agency.png)
+![Header1](Header1/img/Business_Agency.png)
 
 ### Descripción 📝
 
