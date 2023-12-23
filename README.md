@@ -33,8 +33,14 @@ Aprovecha al máximo estas demostraciones explorando los encabezados en un entor
 
 ![Header1](Header1/img/Business_Agency.png)
 
-[![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](Header1/index.html)
-[![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header1/style.css)
+<p align="center">
+  <a href="Header1/index.html">
+    <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26" alt="HTML Badge">
+  </a>
+  <a href="Header1/style.css">
+    <img src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue" alt="CSS Badge">
+  </a>
+</p>
 
 ### Descripción 📝
 
