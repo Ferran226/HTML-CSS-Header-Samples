@@ -15,7 +15,7 @@ Aprovecha al máximo estas demostraciones explorando los encabezados en un entor
 ### Cómo Usar 🛠️
 
 1. Clona o descarga este repositorio.
-2. Navega a la carpeta "Header1".
+2. Navega a la carpeta "Header1", "Header2", "Header3", "Header4" o "Header5".
 3. Abre el archivo "index.html" en tu navegador para visualizar el encabezado.
 4. Haz clic en [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() para ver el código HTML o en [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() para ver el código CSS.
 
