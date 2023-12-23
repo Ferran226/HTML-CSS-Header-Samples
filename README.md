@@ -124,4 +124,4 @@ Estoy disponible para trabajar en proyectos de diseño web, ya sea para particul
 
 ## Licencia 📜
 
-Este proyecto está bajo la licencia [Nombre de la Licencia] - Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la licencia [MIT] - Consulta el archivo [LICENSE](LICENSE) para más detalles.
