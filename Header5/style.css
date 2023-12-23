@@ -1,0 +1,227 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.hero__list ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  width: 60%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+.hero__list ul li {
+  font-size: 14px;
+  color: #949494;
+  font-style: normal;
+  font-weight: 200;
+  background-image: url("/img/check.svg");
+  background-repeat: no-repeat;
+  background-size: 17px;
+  padding-left: 30px;
+  background-position: left center;
+}
+
+.navPrincipal {
+  margin-left: 150px;
+}
+.navPrincipal ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+.navPrincipal a {
+  color: #403C39;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 200;
+  position: relative;
+  padding-bottom: 8px;
+}
+.navPrincipal a:hover {
+  color: #F38160;
+}
+.navPrincipal a::after {
+  content: "";
+  display: block;
+  color: #F38160;
+  width: 0%;
+  height: 2px;
+  background-color: #F38160;
+  transition: width 0.3s ease;
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+}
+.navPrincipal a:hover::after {
+  width: 75%;
+}
+
+.login {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.login ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.login li a {
+  align-items: center;
+}
+.login a.link {
+  color: #F38160;
+  font-size: 12px;
+  font-weight: 200;
+}
+.login a.button {
+  color: #FAFAFA;
+  text-decoration: none;
+  font-size: 12px;
+  padding: 9px 28px;
+  background-color: #F38160;
+  border-radius: 10px;
+  font-weight: 200;
+}
+.login img {
+  width: 20px;
+  align-items: center;
+}
+.login .punto-rojo::before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #F38160;
+  position: absolute;
+}
+
+header.header {
+  display: flex;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  align-items: center;
+  margin-bottom: 60px;
+}
+
+body {
+  content: "";
+  background-image: url("/img/logo-men-market.png");
+  background-repeat: no-repeat;
+  background-size: 63%;
+  background-position: top 33px right 126px;
+}
+
+.hero {
+  width: 49%;
+  margin-bottom: 35px;
+}
+
+.hero__content {
+  margin-bottom: 30px;
+}
+
+.hero__header .titulo {
+  font-family: "Montserrat", sans-serif;
+  font-size: 60px;
+  line-height: normal;
+  letter-spacing: -2.8px;
+  margin-bottom: 10px;
+}
+.hero__header .titulo .color {
+  color: #F38160;
+}
+.hero__header p {
+  color: #949494;
+  font-size: 15px;
+  font-weight: 300;
+  font-style: normal;
+  width: 70%;
+  margin-bottom: 40px;
+}
+.hero__header .conteiner-form {
+  display: flex;
+  gap: 0;
+  border: none;
+}
+.hero__header .conteiner-form form {
+  max-width: 500px;
+  border-radius: 8px;
+  position: relative;
+}
+.hero__header .conteiner-form input {
+  padding: 11px 50px 10px 15px;
+  box-sizing: border-box;
+  border: none;
+  background-color: rgba(208, 208, 210, 0.25);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.hero__header .conteiner-form button {
+  background-color: #F38160;
+  border: none;
+  padding: 9px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.info-products {
+  display: flex;
+  width: 100%;
+  gap: 16px;
+  z-index: 2;
+  background-color: white;
+}
+.info-products article {
+  margin: 28px;
+}
+.info-products img {
+  width: 70px;
+}
+.info-products h3 {
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-bottom: 8px;
+}
+.info-products p {
+  color: #949494;
+  font-size: 12px;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 200;
+}
+
+.conteiner {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1200px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+html * {
+  font-family: "Poppins", sans-serif;
+}
+body {
+  overflow-x: hidden;
+}
+
+/*# sourceMappingURL=style.css.map */
