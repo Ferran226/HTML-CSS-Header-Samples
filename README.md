@@ -62,8 +62,15 @@ Este encabezado está diseñado para una agencia de negocios, destacando un H1 l
 
 ![Header2](Header2/img/Creative_Company.png)
 
-[![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](Header2/index.html)
-[![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header2/style.css)
+<p align="center">
+  <a href="Header2/index.html">
+    <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26" alt="HTML Badge">
+  </a>
+  <a href="Header2/style.css">
+    <img src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue" alt="CSS Badge">
+  </a>
+</p>
+
 
 ### Descripción 📝
 
@@ -83,8 +90,16 @@ Este encabezado está diseñado para una agencia de negocios, destacando un H1 l
 
 
 ![Header3](Header3/img/Coworking_Space.png)
-[![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](Header3/index.html)
-[![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header3/style.css)
+
+<p align="center">
+  <a href="Header3/index.html">
+    <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26" alt="HTML Badge">
+  </a>
+  <a href="Header3/style.css">
+    <img src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue" alt="CSS Badge">
+  </a>
+</p>
+
 
 ### Descripción 📝
 
@@ -104,8 +119,15 @@ Sumérgete en el ambiente de Coworking Space, un encabezado diseñado con un est
 
 ![Header4](Header4/img/NFT_Marketplace.png) 
 
-[![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](Header4/index.html)
-[![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header4/style.css)
+<p align="center">
+  <a href="Header4/index.html">
+    <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26" alt="HTML Badge">
+  </a>
+  <a href="Header4/style.css">
+    <img src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue" alt="CSS Badge">
+  </a>
+</p>
+
 
 ### Descripción 📝
 
@@ -124,8 +146,15 @@ Bienvenido a NFT Marketplace, donde la elegancia se encuentra con la innovación
 
 ![Header5](Header5/img/Grocery_Store.png) 
 
-[![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](Header5/index.html)
-[![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header5/style.css)
+<p align="center">
+  <a href="Header5/index.html">
+    <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26" alt="HTML Badge">
+  </a>
+  <a href="Header5/style.css">
+    <img src="https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue" alt="CSS Badge">
+  </a>
+</p>
+
 
 ### Descripción 📝
 
