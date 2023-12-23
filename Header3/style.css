@@ -1,0 +1,434 @@
+/*! HTML5 Boilerplate v8.0.0 | MIT License | https://html5boilerplate.com/ */
+
+/* main.css 3.0.0 | MIT License | https://github.com/h5bp/main.css#readme */
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+
+html {
+  color: #222;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+/*
+ * Remove text-shadow in selection highlight:
+ * https://twitter.com/miketaylr/status/12228805301
+ *
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+::selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+/*
+ * Remove the gap between audio, canvas, iframes,
+ * images, videos and the bottom of their containers:
+ * https://github.com/h5bp/html5-boilerplate/issues/440
+ */
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+  resize: vertical;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+/*
+ * Hide visually and from screen readers
+ */
+
+.hidden,
+[hidden] {
+  display: none !important;
+}
+
+/*
+ * Hide only visually, but have it available for screen readers:
+ * https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+ *
+ * 1. For long content, line feeds are not interpreted as spaces and small width
+ *    causes content to wrap 1 word per line:
+ *    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
+ */
+
+.visually-hidden {
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  /* 1 */
+}
+
+/*
+ * Extends the .visually-hidden class to allow the element
+ * to be focusable when navigated to via the keyboard:
+ * https://www.drupal.org/node/897638
+ */
+
+.visually-hidden.focusable:active,
+.visually-hidden.focusable:focus {
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  white-space: inherit;
+  width: auto;
+}
+
+/*
+ * Hide visually and from screen readers, but maintain layout
+ */
+
+.invisible {
+  visibility: hidden;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+ * The use of `table` rather than `block` is only necessary if using
+ * `::before` to contain the top-margins of child elements.
+ */
+
+.clearfix::before,
+.clearfix::after {
+  content: "";
+  display: table;
+}
+
+.clearfix::after {
+  clear: both;
+}
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+  /* Style adjustments for viewports that meet the condition */
+}
+
+@media print,
+  (-webkit-min-device-pixel-ratio: 1.25),
+  (min-resolution: 1.25dppx),
+  (min-resolution: 120dpi) {
+  /* Style adjustments for high resolution devices */
+}
+
+/* ==========================================================================
+   Print styles.
+   Inlined to avoid the additional HTTP request:
+   https://www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+
+@media print {
+  *,
+  *::before,
+  *::after {
+    background: #fff !important;
+    color: #000 !important;
+    /* Black prints faster */
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  a[href]::after {
+    content: " (" attr(href) ")";
+  }
+
+  abbr[title]::after {
+    content: " (" attr(title) ")";
+  }
+
+  /*
+   * Don't show links that are fragment identifiers,
+   * or use the `javascript:` pseudo protocol
+   */
+  a[href^="#"]::after,
+  a[href^="javascript:"]::after {
+    content: "";
+  }
+
+  pre {
+    white-space: pre-wrap !important;
+  }
+
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+}
+
+/*
+EL CODIGO EMPIEZA AQUI
+*/
+
+:root {
+  --Dark-Green:#9B9A78;
+  --Black: #313131;
+  --White:#FFF;
+  --Gray-2: #909090;
+  --primary-font:'Poppins',sans-serif;
+  --secondary-font:'Playfair Display',serif;
+  --max-whith-page:1200px;
+
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: var(--primary-font);
+}
+
+.conteiner {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: var(--max-whith-page);
+  padding-left: 16px;
+  padding-right: 16px;
+  box-sizing: border-box;
+}
+
+header.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.navPrincipal ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.navPrincipal a{
+  color: var(--Black);
+  text-decoration: none;
+}
+
+.navPrincipal a:hover{
+  color: var(--Dark-Green);
+}
+
+.navPrincipal a.active{
+  color: var(--Dark-Green);
+}
+
+.login ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.login a{
+  color: var(--Black);
+  text-decoration: none;
+}
+
+a.button{
+  display: inline-block;
+  background-color: var(--Dark-Green);
+  color: white;
+  padding: 10px 20px;
+  transition: all .5s ease;
+}
+
+a.button:hover{
+  background-color: var(--Black);
+}
+
+section.hero{
+  display: flex;
+  justify-content: flex-end;
+  background-image: url("../img/placeholder.jpg");
+  background-repeat: no-repeat;
+  background-size: 60%;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-bottom: 30px;
+}
+
+.hero__content {
+  width: 50%;
+  
+}
+ 
+.hero__header {
+  background: rgba(255, 255, 255, 0.70);
+  backdrop-filter: blur(8px);
+  padding: 35px;
+  
+}
+
+.hero h1{
+  font-family: var(--secondary-font);
+  font-weight: 600;
+  font-size: 42px;
+  line-height: 48px;
+  max-width: 430px;
+  margin: 0;
+  position: relative;
+}
+
+.hero h1::before{
+  content: '';
+  height: 8px;
+  width: 60px;
+  position: absolute;
+  background-color: var(--Dark-Green);
+  right: 21px;
+  top: 22px ;
+
+}
+
+.hero__header p{
+  font-family: var(--primary-font);
+  font-size: 16px;
+  color: var(--Gray-2);
+  font-weight: 300;
+  
+}
+
+
+.hero__list ul{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  width: 60%;
+  margin-left: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 10px;
+}
+
+.hero__list ul li{
+  font-weight: 300;
+  font-size: 14px;
+  background-image: url("../img/icon-check.svg");
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 20px;
+  padding-left: 30px;
+}
+
+.coworking-info {
+  display: flex;
+  justify-content: space-between;
+  gap: 170px;
+  padding-left: 80px;
+  padding-right: 80px;
+
+}
+
+.coworking-info img{
+  width: 40px;
+  margin-bottom: 10px;
+}
+
+.coworking-info h3{
+  margin: 0;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.coworking-info p{
+  font-weight: 300;
+  margin: 0;
+  color: var(--Dark-Green);
+}
