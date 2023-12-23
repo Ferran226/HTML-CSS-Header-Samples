@@ -117,7 +117,10 @@ Sumérgete en el ambiente de Coworking Space, un encabezado diseñado con un est
 </h2>
 
 
-![Header4](Header4/img/NFT_Marketplace.png) 
+<p align="center">
+  <img src="Header4/img/NFT_Marketplace.png" alt="Header4 Image">
+</p>
+
 
 <p align="center">
   <a href="Header4/index.html">
