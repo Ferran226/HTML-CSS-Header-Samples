@@ -6,6 +6,12 @@
 
 Este proyecto demuestra mi habilidad para diseñar encabezados atractivos y profesionales utilizando HTML y CSS. Cada uno de los 5 headers presenta un enfoque único y está diseñado para captar la atención y proporcionar una experiencia visual impactante.
 
+## Visualización para Pantallas de 1290px
+
+Estos encabezados están cuidadosamente diseñados para ofrecer una experiencia visual óptima en pantallas con una resolución de 1290px. Esta decisión de diseño garantiza que los elementos visuales y la disposición del contenido se presenten de manera atractiva y efectiva en pantallas de este tamaño. 🖥️
+
+Aprovecha al máximo estas demostraciones explorando los encabezados en un entorno de 1290px para apreciar completamente su diseño y detalles visuales. 🌈✨
+
 ### Cómo Usar 🛠️
 
 1. Clona o descarga este repositorio.
