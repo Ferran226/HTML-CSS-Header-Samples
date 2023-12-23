@@ -28,9 +28,9 @@ Este encabezado está diseñado para una agencia de negocios, destacando un H1 l
 5. Haz clic en [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header1/style.css) para ver el código CSS.
 
 
-### Documentación Adicional 📚
+## Header2: Creative Company
 
-Consulta la documentación específica de Header1 en la carpeta "docs" para obtener más detalles sobre su implementación y personalización.
+![Header2](Header2/img/Creative_Company.png)
 
 ## Contribuciones 🤝
 
