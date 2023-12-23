@@ -44,11 +44,11 @@ Este encabezado está diseñado para una agencia de negocios, destacando un H1 l
 
 ¡Bienvenido a Creative Company, donde la creatividad se encuentra con la innovación! 🎨✨ Este encabezado está diseñado para impulsar la presencia en línea de tu empresa creativa de una manera única y cautivadora. Aquí hay algunas características clave que harán que te enamores:
 
-- **Navegador Intuitivo:**🚀 Facilita la exploración con nuestra barra de navegación intuitiva, asegurando que tus visitantes naveguen con facilidad por tu contenido.
-- **Botón de Contacto:**💬 Destaca y conecta con tus clientes potenciales mediante nuestro botón de contacto llamativo. Hacer negocios nunca fue tan sencillo.
-- **H1 Claro y Atractivo:**🔥 Captura la atención con nuestro título principal claro y atractivo. Establece el tono y deja una impresión duradera.
-- **3 Articles Destacados:**📚 Presentamos información clave de manera atractiva en tres artículos destacados. Mantén a tus visitantes informados y comprometidos.
-- **Imagen Llamativa de Estudiantes:**🌟 Inspira confianza y creatividad con nuestra imagen representativa de estudiantes comprometidos. Transmitimos la esencia de tu empresa de manera visual.
+- **Navegador Intuitivo:** 🚀 Facilita la exploración con nuestra barra de navegación intuitiva, asegurando que tus visitantes naveguen con facilidad por tu contenido.
+- **Botón de Contacto:** 💬 Destaca y conecta con tus clientes potenciales mediante nuestro botón de contacto llamativo. Hacer negocios nunca fue tan sencillo.
+- **H1 Claro y Atractivo:** 🔥 Captura la atención con nuestro título principal claro y atractivo. Establece el tono y deja una impresión duradera.
+- **3 Articles Destacados:** 📚 Presentamos información clave de manera atractiva en tres artículos destacados. Mantén a tus visitantes informados y comprometidos.
+- **Imagen Llamativa de Estudiantes:** 🌟 Inspira confianza y creatividad con nuestra imagen representativa de estudiantes comprometidos. Transmitimos la esencia de tu empresa de manera visual.
 
 
 ## Contribuciones 🤝
