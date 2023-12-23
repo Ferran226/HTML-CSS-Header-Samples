@@ -6,7 +6,7 @@
 
 ![Header1](Header1/img/Business_Agency.png)
 [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](Header1/index.html)
-[![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header1/styles.css)
+[![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header1/style.css)
 
 ### Descripción 📝
 
@@ -25,7 +25,7 @@ Este encabezado está diseñado para una agencia de negocios, destacando un H1 l
 2. Navega a la carpeta "Header1".
 3. Abre el archivo "index.html" en tu navegador para visualizar el encabezado.
 4. Haz clic en [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](Header1/index.html) para ver el código HTML.
-5. Haz clic en [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header1/styles.css) para ver el código CSS.
+5. Haz clic en [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header1/style.css) para ver el código CSS.
 
 
 ### Documentación Adicional 📚
