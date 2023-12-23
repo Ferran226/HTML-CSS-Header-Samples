@@ -6,6 +6,13 @@
 
 Este proyecto demuestra mi habilidad para diseñar encabezados atractivos y profesionales utilizando HTML y CSS. Cada uno de los 5 headers presenta un enfoque único y está diseñado para captar la atención y proporcionar una experiencia visual impactante.
 
+### Cómo Usar 🛠️
+
+1. Clona o descarga este repositorio.
+2. Navega a la carpeta "Header1".
+3. Abre el archivo "index.html" en tu navegador para visualizar el encabezado.
+4. Haz clic en [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() para ver el código HTML o en [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() para ver el código CSS.
+
 ---
 
 ## Header1: Business Agency
@@ -25,14 +32,7 @@ Este encabezado está diseñado para una agencia de negocios, destacando un H1 l
 - **Navegador de Fácil Navegación:** Facilita la exploración del contenido.
 - **Apartados de Articles:** Secciones organizadas para presentar información clave.
 
-### Cómo Usar 🛠️
-
-1. Clona o descarga este repositorio.
-2. Navega a la carpeta "Header1".
-3. Abre el archivo "index.html" en tu navegador para visualizar el encabezado.
-4. Haz clic en [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](Header1/index.html) para ver el código HTML.
-5. Haz clic en [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](Header1/style.css) para ver el código CSS.
-
+---
 
 ## Header2: Creative Company
 
