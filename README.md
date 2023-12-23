@@ -1,4 +1,6 @@
-# HTML-CSS-Header-Samples
+<h1 align="center" style="color: #0366d6;">
+  HTML-CSS-Header-Samples
+</h1>
 
 <p align="center">
   <img src="banner.png" alt="Banner">
