@@ -26,7 +26,7 @@ Aprovecha al máximo estas demostraciones explorando los encabezados en un entor
 
 ---
 <p align="center">
-  ## Header1: Business Agency 🏢💼✨
+  <strong>Header1: Business Agency</strong> 🏢💼✨
 </p>
 
 ![Header1](Header1/img/Business_Agency.png)
