@@ -25,9 +25,9 @@ Aprovecha al máximo estas demostraciones explorando los encabezados en un entor
 4. Haz clic en [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() para ver el código HTML o en [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() para ver el código CSS.
 
 ---
-<h1 align="center">
+<h2 align="center">
   Header1: Business Agency 🏢💼✨
-</h1>
+</h2>
 
 ![Header1](Header1/img/Business_Agency.png)
 
