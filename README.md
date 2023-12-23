@@ -1,6 +1,12 @@
 # HTML-CSS-Header-Samples
 
-¡Bienvenido! 🚀 HTML-CSS-Header-Samples es una colección de ejemplos de encabezados diseñados exclusivamente con HTML y CSS.
+¡Bienvenido! 🚀 HTML-CSS-Header-Samples es una colección de 5 impresionantes encabezados diseñados exclusivamente con HTML y CSS.
+
+## Sobre el Proyecto
+
+Este proyecto demuestra mi habilidad para diseñar encabezados atractivos y profesionales utilizando HTML y CSS. Cada uno de los 5 headers presenta un enfoque único y está diseñado para captar la atención y proporcionar una experiencia visual impactante.
+
+---
 
 ## Header1: Business Agency
 
