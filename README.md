@@ -1,8 +1,9 @@
 # HTML-CSS-Header-Samples
 
-<div align="center">
- ![Banner](banner.png)
-</div>
+<p align="center">
+  <img src="banner.png" alt="Banner">
+</p>
+
 
 ¡Bienvenido! 🚀 HTML-CSS-Header-Samples es una colección de 5 impresionantes encabezados diseñados exclusivamente con HTML y CSS.
 
