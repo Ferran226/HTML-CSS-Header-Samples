@@ -183,3 +183,7 @@ Estoy disponible para trabajar en proyectos de diseño web, ya sea para particul
 ## Licencia 📜
 
 Este proyecto está bajo la licencia [MIT] - Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+<p align="center">
+  <img src="banner-footer.png" alt="Banner-footer>
+</p>
